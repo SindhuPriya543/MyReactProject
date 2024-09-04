@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
           <GoogleOAuthProvider clientId='775106332327-vcsqur6sl4m22lnhvn8f1pt1fnt2ci04.apps.googleusercontent.com'>
-            <BrowserRouter>/
+            <BrowserRouter>
               <Routes>
 
                 <Route path = '/' element = {<MainComponent/>}>   </Route>

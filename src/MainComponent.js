@@ -16,7 +16,7 @@ export const MainComponent = () => {
   onError={() => {
     console.log('Login Failed');
   }}
-/>;
+/>
     </div>
   )
 }
